@@ -17,6 +17,9 @@ Standalone-приложения.
 Пример заполнения:
 
 vk_group = "jkreligionorg"
+
 vk_token = "5af18bedr326c2f6a3361103cdd667439997e82d66f24230bb46y71cc3ad16469dbfc453f7ebed3c3fb34"
+
 bot_token = "15345546968:fAG4566cB2CKBJk343YscTTfflBT6554g"
+
 channel = "@artforyoulife"
